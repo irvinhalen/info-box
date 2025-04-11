@@ -6,7 +6,7 @@ function App() {
       title="Information Box"
       text="This information box is the result of the mini test."
       linkText="Take me to the repository"
-      linkUrl="https://google.com"
+      linkUrl="https://github.com/irvinhalen/info-box"
     />
   );
 }
